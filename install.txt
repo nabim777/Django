@@ -1,0 +1,19 @@
+installing Django in linux:
+ step 1: go to terminnal
+
+ Step 2: check version of python 3
+ $ sudo apt install python3-pip 
+  
+ step 3: Installiing jdango 
+ $sudo apt-get install python3-django
+ to check django install or not:
+ $django-admin --version
+
+ step 4: To create the django project:
+ $ django-admin startproject myDjangoProject
+ - here "myDjangoProject" is the name of project
+
+ step 5: Going on the project folders:
+ $ cd myDjangoProject
+
+ step 6: migrating commands for 
